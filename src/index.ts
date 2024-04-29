@@ -119,3 +119,5 @@ engine.runRenderLoop(function () {
 window.addEventListener("resize", function () {
   engine.resize();
 });
+
+import {Environment} from "./environment"
